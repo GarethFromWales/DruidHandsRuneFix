@@ -1,0 +1,7 @@
+## Interface: 11503
+## Title: Druid Hands Rune Fix
+## Author: NerfedWar
+## Version: 1.0
+## Notes: A lightweight addon that fixes feral druid hand rune ability usage in macros
+
+main.lua
