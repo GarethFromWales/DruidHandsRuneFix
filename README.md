@@ -33,7 +33,7 @@ This works for complex macros too like:
 ```
 
 will auto update to:
-
+```
 #showtooltip
 /cast [noform] Wrath
 /cast [form:1] Mangle(Bear)
@@ -42,6 +42,7 @@ will auto update to:
 /cast [nomod,form:3] Mangle(Cat)
 /cast [mod,form:3] Rake
 /startattack
+```
 
 when you switch to the Mangle rune  (or equip equipment with the Mangle rune).
 
